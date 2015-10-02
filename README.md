@@ -5,6 +5,7 @@ This is a fast and accurate algorithm for the influence maximization problem und
 
 ## Usage
 Given a graph with edge probabilities, it selects a seed set of a given size.
+
     $ make
     $ ./benchmark graph k R
 * graph: input file (see below)
